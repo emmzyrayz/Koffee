@@ -1,0 +1,14 @@
+@import 'animate.css/animate.min.css';
+@import 'normalize.css';
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+@import 'owl.carousel/dist/assets/owl.carousel.min.css';
+/* @import 'swiper/swiper.min.css'; */
+@import 'slick-carousel/slick/slick.css';
+@import '@fancyapps/fancybox/dist/jquery.fancybox.min.css';
+@import 'jquery-ui-dist/jquery-ui.css';
+@import 'jquery-nice-select/css/nice-select.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
